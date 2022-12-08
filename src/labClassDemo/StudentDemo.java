@@ -7,7 +7,7 @@ public class StudentDemo {
 	
 	private static Long ID = 100L;
 	private static Student[] studentArray = new Student[0];
-	public final static int ID_LENGTH = 20;
+	public final static int ID_LENGTH = 4;
 	
 	public static void main(String[] args) {
 		

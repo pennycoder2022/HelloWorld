@@ -63,4 +63,6 @@ public class Student {
 	public String toString() {
 		return String.format(FORMATTING.STUDENT_TABLE_ROW.VALUE, id, firstName, lastName, email, phone);
 	}	
+	
+	
 }
